@@ -1,5 +1,6 @@
 # Jennifer Figueroa
-Hi!Graduating senior in Business Administration, Supply Chain & Logistics Management with hands-on experience in Accounting and Finance Operations (bookkeeping, accounts receivable, reporting). To prepare for the job market, I designed and built AI coaching agents (Interview Coach, Resume Coach, Evaluation Frameworks) that demonstrate my adaptability, process focus, and ability to connect finance discipline with supply chain strategy.
+Hi!
+I am a soon to be graduating senior in Business Administration, Supply Chain & Logistics Management with hands-on experience in Accounting and Finance Operations (bookkeeping, accounts receivable, reporting). To prepare for the job market, I designed and built AI coaching agents (Interview Coach, Resume Coach, Evaluation Frameworks) that demonstrate my adaptability, process focus, and ability to connect finance discipline with supply chain strategy.
 ---
 ##Featured AI Career Coaches
 Practical AI agents I’ve designed to support job seekers:
