@@ -1,8 +1,5 @@
-# Phoenix Van Wagoner
-Hi! I’m an educator, researcher, and AI innovator focused on **the future of
-work**.
-This site highlights my projects in **AI coaching agents**, instructional design,
-and HR/OB research.
+# Jennifer Figueroa
+Hi!Graduating senior in Business Administration, Supply Chain & Logistics Management with hands-on experience in Accounting and Finance Operations (bookkeeping, accounts receivable, reporting). To prepare for the job market, I designed and built AI coaching agents (Interview Coach, Resume Coach, Evaluation Frameworks) that demonstrate my adaptability, process focus, and ability to connect finance discipline with supply chain strategy.
 ---
 ##Featured AI Career Coaches
 Practical AI agents I’ve designed to support job seekers:
@@ -19,12 +16,11 @@ translator-coach/INSTRUCTIONS.md)
 conceptual skills.*
 ---
 ## Skills & Focus
-- **AI & HR Tech** → resume optimization, AI coaching, interview prep
-- **Research** → future of work, inclusion, leadership, mental health
-- **Teaching & Instructional Design** → curriculum design, learning tools
+- **Finance, administration, managment** → wokr flow optimization, 
+- **Techincial Tools**Quickbooks, Excel, Autotask, Halos
 ---
 ## Other Projects
-- [Confidence & Mindset Coach](projects/agent-instructions/confidence-mindset-
+- [Confidence & Mindset Coach](projects/-instructions/confidence-mindset-
 coach/INSTRUCTIONS.md)
 - [Soft Skills
 Coach](projects/agent-instructions/soft-skills-coach/INSTRUCTIONS.md)
@@ -33,8 +29,8 @@ Coach](projects/agent-instructions/digital-literacy-coach/INSTRUCTIONS.md)
 ---
 ## Connect
 - [LinkedIn](https://linkedin.com/in/YOUR-LINK)
-- [GitHub](https://github.com/YOUR-USERNAME)
-- Email: **youremail@example.com**
+- [GitHub](https://github.com/jenfigzz)
+- Email: ****jenniferfig55@outlook.com****
 ---
 *This portfolio is built on GitHub Pages — blending my technical, academic, and
 creative work into a showcase for recruiters, collaborators, and students.*
